@@ -11,4 +11,4 @@ Because it contains Liquid Glass components, build fails on versions macOS 15 or
 
 Made with love for tracking how many days left until IB final exams
 
-> This does not work with Hidden Bar extension. I've tried it. Ended up giving Hidden Bar up btw.
+This does not work with Hidden Bar extension. I've tried it. Ended up giving Hidden Bar up btw.
