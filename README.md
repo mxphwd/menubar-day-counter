@@ -1,6 +1,7 @@
-Lightweight menu bar D-day counter for macOS
+Completely free, lightweight menu bar D-day counter for macOS
 
 Pros(and cons)
+- Completely free with no in-app purchases (i doubt any cons for this)
 - Made for macOS 27 Golden Gate (I do not know if it works on older versions)
 - Apple Silicon native (no Intel support)
 - Very lightweight (no features)
